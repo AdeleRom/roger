@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1470.072" height="878.527" viewBox="0 0 1470.072 878.527">
+  <defs>
+    <filter id="Ellipse_85" x="0" y="165.689" width="174" height="174" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-color="#4d7cff" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.32" y1="0.045" x2="0.482" y2="0.539" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e3e7f3"/>
+      <stop offset="1" stop-color="#e3e7f3" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1360" data-name="Group 1360" transform="translate(-313.603 -1853.311)">
+    <g transform="matrix(1, 0, 0, 1, 313.6, 1853.31)" filter="url(#Ellipse_85)">
+      <circle id="Ellipse_85-2" data-name="Ellipse 85" cx="42" cy="42" r="42" transform="translate(35 274.69) rotate(-90)" fill="#4d7cff"/>
+    </g>
+    <path id="Union_2" data-name="Union 2" d="M-1203.162,651.527l-75,75h0L-1660,344.689-1315.31,0a41.954,41.954,0,0,0,7.612,10.388,41.723,41.723,0,0,0,29.7,12.3,41.724,41.724,0,0,0,29.7-12.3A42.02,42.02,0,0,0-1240.8.213l189.639,189.638,75-75,152,152,228-228L-214.325,420.69-596.163,802.527l-152-152-228,228Z" transform="translate(1998 1853.311)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

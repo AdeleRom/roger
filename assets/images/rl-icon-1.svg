@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64.906" height="43.659" viewBox="0 0 64.906 43.659">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1361" data-name="Group 1361" transform="translate(-420 -2101)">
+    <path id="Path_1640" data-name="Path 1640" d="M420,2112.5h16.964L450,2125.536l3.2-3.2,1.841,1.841,11.677-11.677h18.187" fill="none" stroke="#fff" stroke-width="2"/>
+    <path id="Intersection_7" data-name="Intersection 7" d="M27.774,64.659A32.506,32.506,0,0,1,0,32.5H16.964L30,45.536l3.2-3.2,1.84,1.841L46.719,32.5H64.905V35a32.512,32.512,0,0,1-27.68,29.662Z" transform="translate(420 2080)" opacity="0.5" fill="url(#linear-gradient)"/>
+    <path id="Subtraction_2" data-name="Subtraction 2" d="M41.549,16.67h0A10,10,0,1,1,59,10a10.115,10.115,0,0,1-.112,1.5H46.719L41.55,16.669Z" transform="translate(420 2101)" fill="#fff" opacity="0.3"/>
+    <path id="Subtraction_3" data-name="Subtraction 3" d="M43.675,11.544h0A7,7,0,1,1,55.839,8.5h-9.12l-3.043,3.043Z" transform="translate(420 2104)" fill="#fff"/>
+  </g>
+</svg>

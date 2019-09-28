@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="854.645" height="544.646" viewBox="0 0 854.645 544.646">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.476" y2="0.934" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d5d9e7"/>
+      <stop offset="1" stop-color="#e3e7f3" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="Path_1568" x="459.016" y="0" width="172.731" height="172.732" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-color="#4d7cff" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1236" data-name="Group 1236" transform="translate(0 -2855.106)">
+    <line id="Line_2" data-name="Line 2" y1="78" transform="translate(473.5 2947.5)" fill="none" stroke="#ced3e4" stroke-width="5"/>
+    <line id="Line_3" data-name="Line 3" x1="5" y1="5" transform="translate(465.5 2926.5)" fill="none" stroke="#ced3e4" stroke-width="5"/>
+    <line id="Line_4" data-name="Line 4" x1="3" y2="3" transform="translate(461.5 2938.5)" fill="none" stroke="#ced3e4" stroke-width="5"/>
+    <path id="Intersection_6" data-name="Intersection 6" d="M0,381.752v-55.8l245-245,73.472,73.473L472.893,0,854.645,381.752Z" transform="translate(0 3018)" fill="url(#linear-gradient)"/>
+    <g id="Group_1235" data-name="Group 1235" transform="translate(533.26 2879.752) rotate(45)">
+      <line id="Line_1" data-name="Line 1" y1="78" transform="translate(0 0.5)" fill="none" stroke="#ced3e4" stroke-width="5"/>
+      <g transform="matrix(0.71, -0.71, 0.71, 0.71, -394.5, 359.64)" filter="url(#Path_1568)">
+        <path id="Path_1568-2" data-name="Path 1568" d="M0,0S14.844,10,30.094,10,61,0,61,0V46S45.679,56,30.429,56,0,46,0,46Z" transform="translate(533.61 25) rotate(45)" fill="#4d7cff"/>
+      </g>
+    </g>
+  </g>
+</svg>

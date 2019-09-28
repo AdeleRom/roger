@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Group_1318" data-name="Group 1318" transform="translate(-166 -40)">
+    <g id="Ellipse_26" data-name="Ellipse 26" transform="translate(166 40)" fill="none" stroke="#e3e7f3" stroke-width="1">
+      <circle cx="25" cy="25" r="25" stroke="none"/>
+      <circle cx="25" cy="25" r="24.5" fill="none"/>
+    </g>
+    <g id="Group_15" data-name="Group 15" transform="translate(-455 -1302)">
+      <rect id="Rectangle_437" data-name="Rectangle 437" width="24" height="24" transform="translate(634 1355)" fill="#4d7cff" opacity="0"/>
+      <path id="Path_878" data-name="Path 878" d="M648.326,1376.23a.75.75,0,1,0-1.152-.96l-3.263,3.915-1.672-1.44a.749.749,0,1,0-.979,1.133l2.25,1.943a.775.775,0,0,0,.551.18.763.763,0,0,0,.515-.27Z" transform="translate(1.25 -8)" fill="#4d7cff"/>
+      <path id="Path_879" data-name="Path 879" d="M638.75,1361.75a.75.75,0,0,0-1.5,0v.75h-1.5a3.751,3.751,0,0,0-3.75,3.75v12a3.751,3.751,0,0,0,3.75,3.75h13.5a3.751,3.751,0,0,0,3.75-3.75v-12a3.751,3.751,0,0,0-3.75-3.75h-1.5v-.75a.75.75,0,0,0-1.5,0v.75h-7.5Zm-3,2.25h1.5v.75a.75.75,0,0,0,1.5,0V1364h7.5v.75a.75.75,0,0,0,1.5,0V1364h1.5a2.248,2.248,0,0,1,2.25,2.25v1.5h-18v-1.5A2.248,2.248,0,0,1,635.75,1364Zm-2.25,5.25h18v9a2.248,2.248,0,0,1-2.25,2.25h-13.5a2.248,2.248,0,0,1-2.25-2.25Z" transform="translate(3.5 -4.5)" fill="#4d7cff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

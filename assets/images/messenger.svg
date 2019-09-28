@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="messenger" transform="translate(5 5)">
+    <rect id="Rectangle_978" data-name="Rectangle 978" width="24" height="24" transform="translate(-5 -5)" fill="#1e88e5" opacity="0"/>
+    <g id="Group_327" data-name="Group 327" transform="translate(-2.6 -2.6)">
+      <path id="Path_1530" data-name="Path 1530" d="M9.6,0C4.3,0,0,3.979,0,8.888A8.642,8.642,0,0,0,3.577,15.81V19.2l3.269-1.794a10.324,10.324,0,0,0,2.754.372c5.3,0,9.6-3.979,9.6-8.888S14.9,0,9.6,0Zm.954,11.97L8.11,9.362,3.34,11.97,8.587,6.4l2.5,2.608L15.8,6.4Z" fill="#1e88e5"/>
+    </g>
+  </g>
+</svg>

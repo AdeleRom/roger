@@ -1,0 +1,18 @@
+.clock {
+                    margin: 16px 0 20px 0;
+                    .countdown-row {
+                        .countdown-section {
+                            color: #c1c1c1;
+                            &:not(:last-of-type) {
+                                margin-right: 32px;
+                            }
+                            .countdown-amount {
+                                font-size: 77px;
+                                line-height: 1;
+                            }
+                            .countdown-period {
+                                font-size: 14px;
+                            }
+                        }
+                    }
+                }
